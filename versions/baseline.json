@@ -1,9 +1,5 @@
 {
   "default": {
-    "tinyfiledialogs": {
-      "baseline": "1.1.1",
-      "port-version": 0
-    },
     "cstring-view": {
       "baseline": "1.0.1",
       "port-version": 0
@@ -11,6 +7,10 @@
     "flag-enum": {
       "baseline": "0.1.0",
       "port-version": 2
+    },
+    "tinyfiledialogs": {
+      "baseline": "1.1",
+      "port-version": 0
     },
     "type-map": {
       "baseline": "0.1.0",
